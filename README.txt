@@ -1,1 +1,3 @@
-NO VEAS LA IMAGEN RESULTADO SIN ANTES EJECUTAR EL RESULTADO :3
+## Captura de Pantalla
+
+Por favor, ejecuta el script antes de mirar la imagen para evitar spoilers:
